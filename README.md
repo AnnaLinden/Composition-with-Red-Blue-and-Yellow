@@ -4,7 +4,7 @@ This project is **my attempt to create a CSS and HTML implementation of Piet Mon
 
 Mondrian composed this painting as a harmony of contrasts that signifies both balance and the tension of dynamic force. The CSS and HTML implementation of the artwork attempts to reflect this harmony through the use of **CSS grid** and HTML elements. **The design is responsive and adapts to different screen sizes.**
 
-![Screenshot of the project](Screenshot painting.jpg)
+![Screenshot of the project](Screenshot-painting.jpg)
 
 ## Implementation
 
